@@ -55,18 +55,18 @@ GNOME **_Tweaks_** allows adjusting advanced GNOME options. It can install and m
 
 ###### .fonts
 
-* [Download Poppins Fonts]()
-* [Download Firacode Fonts]()
+* [Download Poppins Fonts](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/fonts/poppins.tar.xz)
+* [Download Firacode Fonts](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/fonts/firacode.tar.xz)
 
 ###### .icons
 
-* [Download Kora Icons]()
-* [Download Bibata Cursor Icons]()
+* [Download Kora Icons](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/icons/kora.tar.xz)
+* [Download Bibata Cursor Icons](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/icons/Bibata-Modern-Ice.tar.xz)
 
 ###### .themes
 
-* [Download Nordic Darker Application Theme]()
-* [Download Marble Blue Dark Shell Theme]()
+* [Download Nordic Darker Application Theme](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/themes/Nordic-darker.tar.xz)
+* [Download Marble Blue Dark Shell Theme](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/themes/Marble-blue-dark.tar.xz)
 
 [[Go To Top](#ubuntu-220044-developer-editions)]
 
