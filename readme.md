@@ -46,4 +46,4 @@
 
 1
 
-## First Things First {#first-thing-first}
+## First Things First
