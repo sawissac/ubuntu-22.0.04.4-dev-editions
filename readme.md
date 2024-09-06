@@ -100,7 +100,7 @@ GNOME **_Tweaks_** allows adjusting advanced GNOME options. It can install and m
 
 ## Install nvm
 
-> Go read this document [here](https://medium.com/devops-technical-notes-and-manuals/how-to-install-docker-on-ubuntu-22-04-b771fe57f3d2)
+> Go read this document [here](https://www.geeksforgeeks.org/how-to-install-nvm-on-ubuntu-22-04/)
 
 ## Install Docker
 
