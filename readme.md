@@ -11,6 +11,11 @@
           - [.icons](#icons)
           - [.themes](#themes)
   - [Download Extensions](#download-extensions)
+  - [Install nvm](#install-nvm)
+  - [Install Docker](#install-docker)
+  - [Install flatpak](#install-flatpak)
+  - [Useful flathub packages](#useful-flathub-packages)
+  - [Other cli tool](#other-cli-tool)
 
 ## First Things First
 
@@ -55,18 +60,18 @@ GNOME **_Tweaks_** allows adjusting advanced GNOME options. It can install and m
 
 ###### .fonts
 
-* [Download Poppins Fonts](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/fonts/poppins.tar.xz)
-* [Download Firacode Fonts](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/fonts/firacode.tar.xz)
+- [Download Poppins Fonts](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/fonts/poppins.tar.xz)
+- [Download Firacode Fonts](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/fonts/firacode.tar.xz)
 
 ###### .icons
 
-* [Download Kora Icons](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/icons/kora.tar.xz)
-* [Download Bibata Cursor Icons](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/icons/Bibata-Modern-Ice.tar.xz)
+- [Download Kora Icons](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/icons/kora.tar.xz)
+- [Download Bibata Cursor Icons](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/icons/Bibata-Modern-Ice.tar.xz)
 
 ###### .themes
 
-* [Download Nordic Darker Application Theme](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/themes/Nordic-darker.tar.xz)
-* [Download Marble Blue Dark Shell Theme](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/themes/Marble-blue-dark.tar.xz)
+- [Download Nordic Darker Application Theme](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/themes/Nordic-darker.tar.xz)
+- [Download Marble Blue Dark Shell Theme](https://github.com/sawissac/ubuntu-22.0.04.4-dev-editions/blob/main/themes/Marble-blue-dark.tar.xz)
 
 [[Go To Top](#ubuntu-220044-developer-editions)]
 
@@ -74,21 +79,48 @@ GNOME **_Tweaks_** allows adjusting advanced GNOME options. It can install and m
 
 > First you will need to open the Extensions Manager App. Here my recommended extensions lists.
 
-* Blur my Shell @aunetx
-* Caffeine @patapon.info
-* Clipboard Indicator @tudmotu.com
-* Customize Clock on Lock Screen @pratap.fastmail.fm
-* Dash to Dock @micxgx.gmail.com
-* Emoji Copy @felipeftn
-* Gnome 4x UI Improvements @itstime.tech
-* Impatience @gfxmonk.net
-* Just Perfection @just-perfection
-* OpenWeather @jenslody.de
-* Panel corners @aunetx
-* Rounded Window Corners @yilozt
-* Search Light @Icedman
-* User Themes @gnome-shell
-* Vitals @CoreCoding.com
-* WinTile @nowsci.com
+- Blur my Shell @aunetx
+- Caffeine @patapon.info
+- Clipboard Indicator @tudmotu.com
+- Customize Clock on Lock Screen @pratap.fastmail.fm
+- Dash to Dock @micxgx.gmail.com
+- Emoji Copy @felipeftn
+- Gnome 4x UI Improvements @itstime.tech
+- Impatience @gfxmonk.net
+- Just Perfection @just-perfection
+- OpenWeather @jenslody.de
+- Panel corners @aunetx
+- Rounded Window Corners @yilozt
+- Search Light @Icedman
+- User Themes @gnome-shell
+- Vitals @CoreCoding.com
+- WinTile @nowsci.com
 
 [[Go To Top](#ubuntu-220044-developer-editions)]
+
+## Install nvm
+
+> Go read this document [here](https://medium.com/devops-technical-notes-and-manuals/how-to-install-docker-on-ubuntu-22-04-b771fe57f3d2)
+
+## Install Docker
+
+> Go read this document [here](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-22-04)
+
+## Install flatpak
+
+> Go read this document [here](https://flatpak.org/setup/Ubuntu)
+
+## Useful flathub packages
+
+- flatseal
+- chrome
+- inkscape
+- discord
+- obsidian
+- vlc
+- gimp
+
+## Other cli tool
+
+- htop
+- radeontop
