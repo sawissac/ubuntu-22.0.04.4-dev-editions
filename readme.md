@@ -124,3 +124,6 @@ GNOME **_Tweaks_** allows adjusting advanced GNOME options. It can install and m
 
 - htop
 - radeontop
+- vim
+- git
+
